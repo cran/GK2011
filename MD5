@@ -1,0 +1,15 @@
+ca4f1715809f8d6ac94cdfaa6ea064a1 *DESCRIPTION
+de4c30c9caa8ce1dbb695a7c0cc666b4 *NAMESPACE
+7cf9c70cc90215b507dda2cb767dc3a4 *NEWS
+6c518c4bf8a8f06bd584fd2d5e55522b *R/GK2011-package.R
+70a7ce76c95cfb3cbcc2afd161949218 *R/ajps.R
+3354e46780ebc348db2074e39c495b27 *R/estimate.R
+d46682a1d9c5fdf0dc1f27aa4b318d2e *README.md
+79ac61c912c0d7ebe257dbf83d2e4d99 *data/ajps.RData
+ea08a7effdc982a393e5419a6b166e79 *inst/CITATION
+23861b4d5757e2b45f2c38dc179afcd5 *inst/ajps/subset.R
+87b2ed56a5677f6a816d8b35a117e31d *man/GK2011-package.Rd
+d6d473c128b0669eb63e8d24f78ef198 *man/ajps.Rd
+cf9a39740eb5a7dcf8f4d2c552c0a24e *man/estimate.Rd
+54eb1379f2de0081acc5d282ea6dd437 *tests/testthat.R
+ec43b5255efe5acba5a1a2465b2fbfd4 *tests/testthat/tests.R
